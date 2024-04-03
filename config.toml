@@ -65,7 +65,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Hugo-cactus-mod by 塔塔"
+  description = "Elan's blog"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
