@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elan&#39;s</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Elan&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
     <lastBuildDate>Mon, 31 Oct 2022 03:02:52 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo | Hugo-Cactus-theme-mod</title>
-      <link>//localhost:1313/posts/2022/cactus-mod/</link>
+      <link>/posts/2022/cactus-mod/</link>
       <pubDate>Mon, 31 Oct 2022 03:02:52 +0800</pubDate>
-      <guid>//localhost:1313/posts/2022/cactus-mod/</guid>
+      <guid>/posts/2022/cactus-mod/</guid>
       <description>修改主题的时候没有想过公开，很多地方改得很乱，见笑——能用就行！ Github仓库地址：Mantyke/hugo-theme-cactus-m</description>
     </item>
     <item>
       <title>Hugo | Hugo-Cactus-theme-mod</title>
-      <link>//localhost:1313/2022/cactus-mod/</link>
+      <link>/2022/cactus-mod/</link>
       <pubDate>Mon, 31 Oct 2022 03:02:52 +0800</pubDate>
-      <guid>//localhost:1313/2022/cactus-mod/</guid>
+      <guid>/2022/cactus-mod/</guid>
       <description>修改主题的时候没有想过公开，很多地方改得很乱，见笑——能用就行！ Github仓库地址：Mantyke/hugo-theme-cactus-m</description>
     </item>
     <item>
       <title>友情链接</title>
-      <link>//localhost:1313/friends/</link>
+      <link>/friends/</link>
       <pubDate>Tue, 24 Aug 2021 17:51:42 +0000</pubDate>
-      <guid>//localhost:1313/friends/</guid>
+      <guid>/friends/</guid>
       <description>冲浪时间 友链页面 全部 开始拜访 你敲了敲： 的门，全部友链</description>
     </item>
     <item>
       <title>友情链接</title>
-      <link>//localhost:1313/friendslink/</link>
+      <link>/friendslink/</link>
       <pubDate>Tue, 24 Aug 2021 17:51:42 +0000</pubDate>
-      <guid>//localhost:1313/friendslink/</guid>
+      <guid>/friendslink/</guid>
       <description>全部友链 友情链接访问页面来自Mengru Title Description 小球飞鱼 我们会一起遇见鲸鱼吗？</description>
     </item>
     <item>
       <title>About me</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>//localhost:1313/books/</link>
+      <link>/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/books/</guid>
+      <guid>/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Tags墙</title>
-      <link>//localhost:1313/tags-wall/</link>
+      <link>/tags-wall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags-wall/</guid>
+      <guid>/tags-wall/</guid>
       <description></description>
     </item>
     <item>
       <title>游戏</title>
-      <link>//localhost:1313/games/</link>
+      <link>/games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/games/</guid>
+      <guid>/games/</guid>
       <description></description>
     </item>
     <item>
       <title>电影</title>
-      <link>//localhost:1313/movies/</link>
+      <link>/movies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/movies/</guid>
+      <guid>/movies/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weeklies on Elan&#39;s</title>
-    <link>//localhost:1313/weekly/</link>
+    <link>/weekly/</link>
     <description>Recent content in Weeklies on Elan&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
     <lastBuildDate>Mon, 31 Oct 2022 03:02:52 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/weekly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo | Hugo-Cactus-theme-mod</title>
-      <link>//localhost:1313/2022/cactus-mod/</link>
+      <link>/2022/cactus-mod/</link>
       <pubDate>Mon, 31 Oct 2022 03:02:52 +0800</pubDate>
-      <guid>//localhost:1313/2022/cactus-mod/</guid>
+      <guid>/2022/cactus-mod/</guid>
       <description>修改主题的时候没有想过公开，很多地方改得很乱，见笑——能用就行！ Github仓库地址：Mantyke/hugo-theme-cactus-m</description>
     </item>
   </channel>
