@@ -24,8 +24,13 @@ url = "/Daily"
 weight = 2
 
 [[menu.main]]
+<<<<<<< HEAD
 name = "Some"
 url = "/some"
+=======
+name = "Others"
+url = "/posts"
+>>>>>>> parent of c5c1e5a (123)
 weight = 3
 
 [[menu.main]]
@@ -37,8 +42,6 @@ weight = 4
 name = "Tags"
 url = "/tags"
 weight = 4
-
-
 
 [markup]
   [markup.tableOfContents]
