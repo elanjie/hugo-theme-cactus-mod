@@ -19,18 +19,13 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Daily"
-url = "/Daily"
+name = "Weekly"
+url = "/weekly"
 weight = 2
 
 [[menu.main]]
-<<<<<<< HEAD
-name = "Some"
-url = "/some"
-=======
 name = "Others"
 url = "/posts"
->>>>>>> parent of c5c1e5a (123)
 weight = 3
 
 [[menu.main]]
