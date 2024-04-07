@@ -19,8 +19,8 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Weekly"
-url = "/weekly"
+name = "Daily"
+url = "/Daily"
 weight = 2
 
 [[menu.main]]
