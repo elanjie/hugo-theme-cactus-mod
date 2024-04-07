@@ -1,4 +1,4 @@
 ---
-title: "Elan"
-layout: "Elan"
+title: "游戏"
+layout: "games"
 ---
