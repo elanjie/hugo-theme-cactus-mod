@@ -1,4 +1,4 @@
 ---
-title: "游戏"
-layout: "games"
+title: "我们的世界"
+layout: "nature"
 ---
