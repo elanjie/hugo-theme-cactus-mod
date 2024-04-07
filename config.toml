@@ -19,12 +19,12 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Weekly"
+name = "Daily"
 url = "/weekly"
 weight = 2
 
 [[menu.main]]
-name = "Others"
+name = "Some"
 url = "/posts"
 weight = 3
 
