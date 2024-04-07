@@ -2,48 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2022-10-31T03:02:52+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2022-10-31T03:02:52+08:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>//localhost:1313/tags/hugo/</loc>
     <lastmod>2022-10-31T03:02:52+08:00</lastmod>
   </url><url>
-    <loc>/posts/2022/cactus-mod/</loc>
+    <loc>//localhost:1313/posts/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%981/cactus-mod/</loc>
     <lastmod>2022-10-31T03:02:52+08:00</lastmod>
   </url><url>
-    <loc>/2022/cactus-mod/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2022-10-31T03:02:52+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2022-10-31T03:02:52+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/categories/%E7%94%98%E6%99%AE%E5%9F%BA%E6%9C%AC%E5%8F%98%E5%BD%A2%E5%AE%9A%E5%BE%8B/</loc>
     <lastmod>2022-10-31T03:02:52+08:00</lastmod>
   </url><url>
-    <loc>/weekly/</loc>
-    <lastmod>2022-10-31T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>/categories/%E7%94%98%E6%99%AE%E5%9F%BA%E6%9C%AC%E5%8F%98%E5%BD%A2%E5%AE%9A%E5%BE%8B/</loc>
-    <lastmod>2022-10-31T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>/friends/</loc>
+    <loc>//localhost:1313/friends/</loc>
     <lastmod>2021-08-24T17:51:42+00:00</lastmod>
   </url><url>
-    <loc>/friendslink/</loc>
+    <loc>//localhost:1313/friendslink/</loc>
     <lastmod>2021-08-24T17:51:42+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2016-08-24T17:51:42+00:00</lastmod>
   </url><url>
-    <loc>/books/</loc>
+    <loc>//localhost:1313/posts/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%982/first_doc/</loc>
   </url><url>
-    <loc>/tags-wall/</loc>
+    <loc>//localhost:1313/books/</loc>
   </url><url>
-    <loc>/games/</loc>
+    <loc>//localhost:1313/tags-wall/</loc>
   </url><url>
-    <loc>/movies/</loc>
+    <loc>//localhost:1313/weekly/</loc>
+  </url><url>
+    <loc>//localhost:1313/games/</loc>
+  </url><url>
+    <loc>//localhost:1313/movies/</loc>
   </url>
 </urlset>

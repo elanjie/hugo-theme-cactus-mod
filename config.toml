@@ -24,7 +24,7 @@ url = "/weekly"
 weight = 2
 
 [[menu.main]]
-name = "Others"
+name = "Some"
 url = "/posts"
 weight = 3
 
@@ -37,6 +37,8 @@ weight = 4
 name = "Tags"
 url = "/tags"
 weight = 4
+
+
 
 [markup]
   [markup.tableOfContents]
