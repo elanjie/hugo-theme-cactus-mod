@@ -10,6 +10,10 @@ image:
 slug: cactus-mod
 
 
+---
+
+> {{< emoji name="artist"  ext="png" width="35" >}} 修改主题的时候没有想过公开，很多地方改得很乱，见笑——能用就行！
+
 # <font color=Gree>**PostgreSQL介绍**</font>
 
 ### What is PostgreSQL?
