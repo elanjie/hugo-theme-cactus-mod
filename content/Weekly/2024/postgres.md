@@ -1,9 +1,13 @@
 ---
-title: "Postgres"
-layout: "nature"
----
-
-
+title: "Postgres | document"
+date: 2022-10-31T03:02:52+08:00
+description: postgres日常学习
+tags:
+  - Hugo
+categories:
+  - 甘普基本变形定律
+image: 
+slug: cactus-mod
 
 
 # <font color=Gree>**PostgreSQL介绍**</font>
