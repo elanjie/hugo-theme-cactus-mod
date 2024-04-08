@@ -21,9 +21,3 @@ Getting started with using PostgreSQL has never been easier - pick a project you
 <font color=Gree>**PostgreSQL**</font> tries to conform with the SQL standard where such conformance does not contradict traditional features or could lead to poor architectural decisions. Many of the features required by the SQL standard are supported, though sometimes with slightly differing syntax or function. Further moves towards conformance can be expected over time. As of the version 16 release in September 2023, PostgreSQL conforms to at least 170 of the 179 mandatory features for SQL:2023 Core conformance. As of this writing, no relational database meets full conformance with this standard.
 
 Below is an inexhaustive list of various features found in PostgreSQL, with more being added in every major release:
-
-
-
-
-
-
